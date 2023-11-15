@@ -4,3 +4,6 @@
 [submodule "pack/themes/start/cobalt2-vim-theme"]
 	path = pack/themes/start/cobalt2-vim-theme
 	url = https://github.com/gertjanreynaert/cobalt2-vim-theme.git
+[submodule "pack/vendor/start/fzf"]
+	path = pack/vendor/start/fzf
+	url = https://github.com/junegunn/fzf.vim.git

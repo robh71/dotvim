@@ -11,6 +11,9 @@ git submodule add https://github.com/gertjanreynaert/cobalt2-vim-theme.git pack/
 
 git submodule add https://github.com/dense-analysis/ale.git pack/vendor/start/ale
 
+git submodule add https://github.com/junegunn/fzf.vim.git pack/vendor/start/fzf
+
+
 ## Update and merge submodules
 git submodule update --remote --merge
 
