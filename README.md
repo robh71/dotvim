@@ -8,6 +8,7 @@ $ wget https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/s
 ## Submodules added
 
 git submodule add https://github.com/gertjanreynaert/cobalt2-vim-theme.git pack/themes/start/cobalt2-vim-theme
+
 git submodule add https://github.com/dense-analysis/ale.git pack/vendor/start/ale
 
 ## Update and merge submodules
